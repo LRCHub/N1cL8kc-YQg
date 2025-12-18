@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "NEW DROP",
+  "base_artist": "Don Toliver",
+  "createdAt": "2025-12-18T18:27:36.902311Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NEW DROP",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/01_NEW_DROP_Don_Toliver.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NEW DROP",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/02_NEW_DROP_Don_Toliver.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don Toliver - NEW DROP [Official Audio]",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/03_Don_Toliver_-_NEW_DROP_[Official_Audio]_Don_Toliver.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NEW DROP",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/04_NEW_DROP_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NEW DROP",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/05_NEW_DROP_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don Toliver - NEW DROP [Official Audio]",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/06_Don_Toliver_-_NEW_DROP_[Official_Audio]_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "NEW DROP",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/07_NEW_DROP_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don Toliver - NEW DROP [Official Music Video]",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/08_Don_Toliver_-_NEW_DROP_[Official_Music_Video]_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NEW DROP",
+      "artist": "Video • Don Toliver",
+      "has_synced": true,
+      "path": "select/09_NEW_DROP_Video_•_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "NEW DROP",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/10_NEW_DROP_Don_Toliver.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEW DROP",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/pl_01_NEW_DROP_Don_Toliver.txt"
+    }
+  ]
+}
